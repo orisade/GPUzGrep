@@ -1,2 +1,2 @@
 # GPUzGrep
-Out Of Core Accelerated Seach Over Compressed Files
+Out Of Core Accelerated Text Seach Over Compressed Data
